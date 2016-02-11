@@ -33,6 +33,12 @@ Inside of the REPL:
 (load-file "filename.clj")
 ```
 
+Or just type:
+
+```console
+cat filename.clj | lein repl
+```
+
 ### Links
 
 - [Getting started](http://java.ociweb.com/mark/clojure/article.html)
