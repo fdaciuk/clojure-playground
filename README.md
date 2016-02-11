@@ -8,12 +8,12 @@
 
 **Using [Leningen](http://leiningen.org/):**
 
-1) Download [`lein`script](https://raw.github.com/technomancy/leiningen/stable/bin/lein)
-2) moving it to `/usr/local/bin`
-3) calling `sudo chmod +x /usr/local/bin/lein`
-4) Make sure you have Java installed first, of course
-5) To avoid `sudo`, add up yourself as owner of `lein`
-6) Execute `lein` to install latest Clojure version
+1. Download [`lein`script](https://raw.github.com/technomancy/leiningen/stable/bin/lein)
+2. moving it to `/usr/local/bin`
+3. calling `sudo chmod +x /usr/local/bin/lein`
+4. Make sure you have Java installed first, of course
+5. To avoid `sudo`, add up yourself as owner of `lein`
+6. Execute `lein` to install latest Clojure version
 
 ## Links
 
