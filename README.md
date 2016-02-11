@@ -15,6 +15,20 @@
 5. To avoid `sudo`, add up yourself as owner of `lein`
 6. Execute `lein` to install latest Clojure version
 
+### Running codes
+
+Inside of the terminal:
+
+```console
+lein repl
+```
+
+Inside of the REPL:
+
+```clj
+(load-file "filename.clj")
+```
+
 ### Links
 
 - [Getting started](http://java.ociweb.com/mark/clojure/article.html)
