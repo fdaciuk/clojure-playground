@@ -2,6 +2,10 @@
 
 > Playing with Functional Programming on Clojure
 
+<p align="center">
+  <img src="clojure-logo.png">
+</p>
+
 ### Clojure Installation (on Linux)
 
 > For installation on Windows, check out http://leiningen.org/
