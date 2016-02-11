@@ -2,7 +2,7 @@
 
 > Playing with Functional Programming on Clojure
 
-## Clojure Installation (on Linux)
+### Clojure Installation (on Linux)
 
 > For installation on Windows, check out http://leiningen.org/
 
@@ -15,11 +15,11 @@
 5. To avoid `sudo`, add up yourself as owner of `lein`
 6. Execute `lein` to install latest Clojure version
 
-## Links
+### Links
 
 - [Getting started](http://java.ociweb.com/mark/clojure/article.html)
 - [Clojure + Vim](http://neo.com/2014/02/25/getting-started-with-clojure-in-vim/)
 
-## License
+### License
 
 [MIT License](https://github.com/fdaciuk/licenses/blob/master/MIT-LICENSE.md) &copy; Fernando Daciuk
