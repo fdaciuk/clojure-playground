@@ -12,7 +12,7 @@
 2) moving it to `/usr/local/bin`
 3) calling `sudo chmod +x /usr/local/bin/lein`
 4) Make sure you have Java installed first, of course
-5) If it is needed, add you to be owner of `lein`
+5) To avoid `sudo`, add up yourself as owner of `lein`
 6) Execute `lein` to install latest Clojure version
 
 ## Links
